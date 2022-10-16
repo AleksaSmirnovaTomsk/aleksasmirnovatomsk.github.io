@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.378d6a9c.css",
+    "main.js": "/static/js/main.86c3ca9b.js",
+    "static/media/second.svg": "/static/media/second.4d9723f7d70496739a8a0912856ac6f3.svg",
+    "static/media/Ragu.jpg": "/static/media/Ragu.d7b7d69967d87945c8ab.jpg",
+    "static/media/first.svg": "/static/media/first.bbea7d6ba743d4527941ded73574b5e8.svg",
+    "static/media/menu.jpg": "/static/media/menu.2657d767d70db16f5cdc.jpg",
+    "static/media/sale.jpg": "/static/media/sale.b0b92e84a8b1ef0694bb.jpg",
+    "static/media/location.jpg": "/static/media/location.f7113ecb73953edac116.jpg",
+    "static/media/Cace.jpg": "/static/media/Cace.f5940143952bb8a76bcd.jpg",
+    "static/media/Carbonara.jpg": "/static/media/Carbonara.d25692aee7f354bdf0b5.jpg",
+    "static/media/couple.jpg": "/static/media/couple.0151b0963458e1d9b947.jpg",
+    "static/media/intro_bold.ttf": "/static/media/intro_bold.8eeeac0feac02fb237f9.ttf",
+    "static/media/third.svg": "/static/media/third.30aad55136c8018c9d491c7c47cf8ed6.svg",
+    "static/media/logo.jpg": "/static/media/logo.25dbfd1a8f0cfcd5f455.jpg",
+    "static/media/emoji.png": "/static/media/emoji.6caffdade6ed19617d41.png",
+    "static/media/telegram.png": "/static/media/telegram.f677c7c22e582799a8cb.png",
+    "static/media/Borch.jfif": "/static/media/Borch.3f756d801fe45b827211.jfif",
+    "static/media/tik-tok.png": "/static/media/tik-tok.8bb71cc6c1bd4e58530b.png",
+    "index.html": "/index.html",
+    "main.378d6a9c.css.map": "/static/css/main.378d6a9c.css.map",
+    "main.86c3ca9b.js.map": "/static/js/main.86c3ca9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378d6a9c.css",
+    "static/js/main.86c3ca9b.js"
+  ]
+}
